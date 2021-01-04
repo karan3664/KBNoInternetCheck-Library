@@ -1,0 +1,3 @@
+include ':KBNetwork'
+include ':app'
+rootProject.name = "NoNetworkConnection"
